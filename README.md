@@ -36,6 +36,12 @@ $ yarn start
 - Expo Client:
   Scan qrcode from your expo client
 
+- Prod Channel:
+  https://expo.io/@jimmiext/app?release-channel=prod
+
+- Staging Channel:
+  https://expo.io/@jimmiext/app?release-channel=staging
+
 ## Test
 
 To run unit test scenario, you can use this command:
